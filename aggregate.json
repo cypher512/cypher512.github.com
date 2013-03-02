@@ -16,6 +16,13 @@
         "_id": 1, 
         "name": "01.1", 
         "label": "gika-gikai"
+      },
+      "cofog3": {
+        "taxonomy": "cofog3", 
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/", 
+        "_id": 1, 
+        "name": "", 
+        "label": ""
       }
     }, 
     {
