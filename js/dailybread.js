@@ -23,7 +23,65 @@ OpenSpending.LABEL_MAPPING = {
   "economy-tourism":"経済・観光",
   "our-streets":"街づくり",
   "environment":"環境",
-  "traffic-watersup":"交通・水道"
+  "traffic-watersup":"交通・水道",
+
+  "gikai":"市議会",
+  "gikai-gikai":"市議会",
+  "soumu":"市政",
+  "soumu-soumukanri":"総務管理",
+  "soumu-kikaku":"企画",
+  "soumu-zeimu":"税務",
+  "soumu-senkyo":"選挙",
+  "soumu-jinkeniinkai":"人権委員会",
+  "soumu-kansaiin":"監査委員",
+  "shimin":"市民",
+  "shimin-shimin":"市民",
+  "shimin-koseki":"戸籍住民基本台帳",
+  "shimin-roudoufukushi":"労働福祉",
+  "kenkoufukushi":"健康福祉",
+  "kenkoufukushi-kenkou":"健康福祉",
+  "kenkoufukushi-shougai":"傷害保険福祉",
+  "kenkoufukushi-kourei":"高齢保健福祉",
+  "kenkoufukushi-jidou":"児童保健福祉",
+  "kenkoufukushi-seikatu":"生活保護",
+  "kenkoufukushi-saigai":"災害救助",
+  "kenkoufukushi-hokeneisei":"保健衛生",
+  "kankyou":"環境",
+  "kankyou-kankyou":"環境",
+  "keizai":"経済",
+  "keizai-shoukou":"商工",
+  "keizai-nourin":"農林",
+  "doboku":"土木",
+  "doboku-kanri":"土木管理",
+  "doboku-toshi":"都市計画",
+  "doboku-jutaku":"住宅",
+  "doboku-douro":"道路橋りょう",
+  "doboku-ryokusei":"緑政",
+  "doboku-kasen":"河川",
+  "doboku-gesui":"下水道",
+  "shoubou":"消防",
+  "shoubou-shoubou":"消防",
+  "kyoiku":"教育",
+  "kyoiku-soumu":"教育総務",
+  "kyoiku-shou":"小学校",
+  "kyoiku-chuu":"中学校",
+  "kyoiku-kou":"高等学校",
+  "kyoiku-tokubetsu":"特別支援学校",
+  "kyoiku-kensetsu":"学校建設",
+  "kyoiku-shakai":"社会教育",
+  "kyoiku-shimin":"市民センター",
+  "kyoiku-kyushoku":"保健給食",
+  "kousai":"公債",
+  "kousai-kousai":"公債",
+  "saigai":"災害復旧",
+  "saigai-saigai":"災害復旧",
+  "shoshishutsu":諸支出",
+  "shoshishutsu-kouei":公営企業",
+  "yobi":"予備",
+  "yobi-yobi":"予備"
+
+
+
 };
 
 (function ($) {
@@ -34,7 +92,7 @@ var huyoKoujo = 330000; // 一人分の扶養控除
 var taxRate = 0.06; // 住民税率
 
 var formatCurrency = function (val, prec, sym, dec, sep) {
-  prec = prec === undefined ? 2 : prec
+  prec = prec === undefined ? 0 : prec
   sym = sym || '\u00A5' // Yen sign
   dec = dec || '.'
   sep = sep || ','
