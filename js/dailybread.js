@@ -1,7 +1,7 @@
 OpenSpending = "OpenSpending" in window ? OpenSpending : {};
 
 OpenSpending.LABEL_MAPPING = {
-  "helping-others":"健康福祉",
+  "helping-others":"日本語テスト",
   "pre-school":"こども青少年",
   "education":"教育",
   "civilian-action":"市民",
