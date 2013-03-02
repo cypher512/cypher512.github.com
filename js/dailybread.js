@@ -3,6 +3,13 @@ OpenSpending = "OpenSpending" in window ? OpenSpending : {};
 OpenSpending.LABEL_MAPPING = {
   "gikai":"市議会",
   "gikai-gikai":"市議会",
+  "soumu":"市政",
+  "soumu-soumukanri":"総務管理",
+  "soumu-kikaku":"企画",
+  "soumu-zeimu":"税務",
+  "soumu-senkyo":"選挙",
+  "soumu-jinkeniinkai":"人権委員会",
+  "soumu-kansaiin":"監査委員",
 
   "helping-others":"日本語テスト",
   "pre-school":"こども青少年",
@@ -29,13 +36,7 @@ OpenSpending.LABEL_MAPPING = {
   "traffic-watersup":"交通・水道",
 
 
-  "soumu":"市政",
-  "soumu-soumukanri":"総務管理",
-  "soumu-kikaku":"企画",
-  "soumu-zeimu":"税務",
-  "soumu-senkyo":"選挙",
-  "soumu-jinkeniinkai":"人権委員会",
-  "soumu-kansaiin":"監査委員",
+
   "shimin":"市民",
   "shimin-shimin":"市民",
   "shimin-koseki":"戸籍住民基本台帳",
