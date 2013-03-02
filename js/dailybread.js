@@ -4,7 +4,7 @@ OpenSpending.LABEL_MAPPING = {
   "gikai":"市議会",
   "gikai-gikai":"市議会",
   "soumu":"市政",
-  "soumu-soumukanri":"総務管理",
+  "soumu-kanri":"総務管理",
   "soumu-kikaku":"企画",
   "soumu-zeimu":"税務",
   "soumu-senkyo":"選挙",
