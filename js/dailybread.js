@@ -56,7 +56,7 @@ OpenSpending.LABEL_MAPPING = {
   "yobi":"予備",
   "yobi-yobi":"予備",
 
-  "helping-others":"日本語テスト",
+  "helping-others":"健康福祉",
   "pre-school":"こども青少年",
   "education":"教育",
   "civilian-action":"市民",
@@ -79,9 +79,6 @@ OpenSpending.LABEL_MAPPING = {
   "our-streets":"街づくり",
   "environment":"環境",
   "traffic-watersup":"交通・水道"
-
-
-
 
 };
 
