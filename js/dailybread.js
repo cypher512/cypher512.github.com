@@ -1,6 +1,9 @@
 OpenSpending = "OpenSpending" in window ? OpenSpending : {};
 
 OpenSpending.LABEL_MAPPING = {
+  "gikai":"市議会",
+  "gikai-gikai":"市議会",
+
   "helping-others":"日本語テスト",
   "pre-school":"こども青少年",
   "education":"教育",
@@ -25,8 +28,7 @@ OpenSpending.LABEL_MAPPING = {
   "environment":"環境",
   "traffic-watersup":"交通・水道",
 
-  "gikai":"市議会",
-  "gikai-gikai":"市議会",
+
   "soumu":"市政",
   "soumu-soumukanri":"総務管理",
   "soumu-kikaku":"企画",
