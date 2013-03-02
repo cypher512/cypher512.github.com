@@ -2,7 +2,7 @@
   "drilldown": [
     {
       "num_entries": 1, 
-      "amount": 1616445.0, 
+      "amount": 1000.0, 
       "cofog1": {
         "taxonomy": "cofog1", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01", 
@@ -20,7 +20,7 @@
     }, 
     {
       "num_entries": 1, 
-      "amount": 2.0, 
+      "amount": 2000.0, 
       "cofog1": {
         "taxonomy": "cofog1", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/02", 
