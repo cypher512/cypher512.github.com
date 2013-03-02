@@ -7,7 +7,6 @@ var BubbleTree = BubbleTree || {};
 BubbleTree.Styles = BubbleTree.Styles || {};
 
 BubbleTree.Styles.Cofog1 = {
-    /* sendai cofog */
 	'01': { icon: 'icons/government-uk.svg', color: '#00CC00' },
 	'02': { icon: 'icons/schools.svg', color: '#0AB971' },
 	'03': { icon: 'icons/civilian-action.svg', color: '#EC2406' },
@@ -21,7 +20,7 @@ BubbleTree.Styles.Cofog1 = {
 }
 
 BubbleTree.Styles.Cofog2 = {
-
+    /* sendai cofog */
 	'01.1': { icon: 'icons/government-uk.svg'},
 	'02.1': { icon: 'icons/pre-school.svg'},
 	'02.2': { icon: 'icons/education.svg'},
