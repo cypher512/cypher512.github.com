@@ -54,7 +54,7 @@ OpenSpending.LABEL_MAPPING = {
   "shoshishutsu":"諸支出",
   "shoshishutsu-kouei":"公営企業",
   "yobi":"予備",
-  "yobi-yobi":"予備"
+  "yobi-yobi":"予備",
 
   "helping-others":"日本語テスト",
   "pre-school":"こども青少年",
