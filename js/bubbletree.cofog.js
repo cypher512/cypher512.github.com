@@ -7,9 +7,8 @@ var BubbleTree = BubbleTree || {};
 BubbleTree.Styles = BubbleTree.Styles || {};
 
 BubbleTree.Styles.Cofog1 = {
-
-	/* yokohama cofog */
-	'01': { icon: 'icons/helping-others.svg', color: '#935B3B' },
+    /* sendai cofog */
+	'01': { icon: 'icons/government-uk.svg', color: '#00CC00' },
 	'02': { icon: 'icons/schools.svg', color: '#0AB971' },
 	'03': { icon: 'icons/civilian-action.svg', color: '#EC2406' },
 	'04': { icon: 'icons/order-safety.svg', color: '#790586' },
@@ -23,7 +22,7 @@ BubbleTree.Styles.Cofog1 = {
 
 BubbleTree.Styles.Cofog2 = {
 
-	'01.1': { icon: 'icons/helping-others.svg'},
+	'01.1': { icon: 'icons/government-uk.svg'},
 	'02.1': { icon: 'icons/pre-school.svg'},
 	'02.2': { icon: 'icons/education.svg'},
 	'03.1': { icon: 'icons/civilian-action.svg'},
