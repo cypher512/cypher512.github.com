@@ -252,7 +252,7 @@
     }
   ], 
   "summary": {
-    "num_drilldowns": 6, 
+    "num_drilldowns": 10, 
     "pagesize": 10000, 
     "cached": true, 
     "amount": 54613600.0, 
@@ -260,7 +260,7 @@
     "currency": {
       "amount": "JPY"
     }, 
-    "num_entries": 6, 
+    "num_entries": 10, 
     "cache_key": "b87841f06c66b237f5cf31d11291fda1bd596181", 
     "page": 1
   }
