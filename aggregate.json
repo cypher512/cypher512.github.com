@@ -99,10 +99,35 @@
         "name": "", 
         "label": ""
       }
+    },
+    {
+      "num_entries": 1, 
+      "amount": 933500.0, 
+      "cofog1": {
+        "taxonomy": "cofog1", 
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/02", 
+        "_id": 3, 
+        "name": "02", 
+        "label": "soumu"
+      }, 
+      "cofog2": {
+        "taxonomy": "cofog2", 
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/02-4", 
+        "_id": 7, 
+        "name": "02.4", 
+        "label": "soumu-senkyo"
+      }, 
+      "cofog3": {
+        "taxonomy": "cofog3", 
+        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/", 
+        "_id": 3, 
+        "name": "", 
+        "label": ""
+      }
     }
   ], 
   "summary": {
-    "num_drilldowns": 4, 
+    "num_drilldowns": 5, 
     "pagesize": 10000, 
     "cached": true, 
     "amount": 54613600.0, 
@@ -110,7 +135,7 @@
     "currency": {
       "amount": "JPY"
     }, 
-    "num_entries": 4, 
+    "num_entries": 5, 
     "cache_key": "b87841f06c66b237f5cf31d11291fda1bd596181", 
     "page": 1
   }
