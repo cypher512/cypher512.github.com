@@ -91,7 +91,7 @@ var huyoKoujo = 330000; // 一人分の扶養控除
 var taxRate = 0.06; // 住民税率
 
 var formatCurrency = function (val, prec, sym, dec, sep) {
-  prec = prec === undefined ? 0 : prec
+  prec = prec === undefined ? 1 : prec
   sym = sym || '\u00A5' // Yen sign
   dec = dec || '.'
   sep = sep || ','
