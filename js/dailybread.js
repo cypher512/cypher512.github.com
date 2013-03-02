@@ -10,33 +10,6 @@ OpenSpending.LABEL_MAPPING = {
   "soumu-senkyo":"選挙",
   "soumu-jinkeniinkai":"人権委員会",
   "soumu-kansaiin":"監査委員",
-
-  "helping-others":"日本語テスト",
-  "pre-school":"こども青少年",
-  "education":"教育",
-  "civilian-action":"市民",
-  "order-safety":"消防",
-  "wind":"温暖化対策",
-  "tree":"環境創造",
-  "garbage":"資源循環",
-  "housing":"建築",
-  "street-lights":"都市整備",
-  "farms":"道路",
-  "culture":"文化観光",
-  "dollar":"経済",
-  "harbor":"港湾",
-  "publicaffairs":"総務",
-  "government":"政策",
-  "traffic-watersup":"交通・水道",
-
-  "schools":"子育て・教育",
-  "economy-tourism":"経済・観光",
-  "our-streets":"街づくり",
-  "environment":"環境",
-  "traffic-watersup":"交通・水道",
-
-
-
   "shimin":"市民",
   "shimin-shimin":"市民",
   "shimin-koseki":"戸籍住民基本台帳",
@@ -82,6 +55,33 @@ OpenSpending.LABEL_MAPPING = {
   "shoshishutsu-kouei":"公営企業",
   "yobi":"予備",
   "yobi-yobi":"予備"
+
+  "helping-others":"日本語テスト",
+  "pre-school":"こども青少年",
+  "education":"教育",
+  "civilian-action":"市民",
+  "order-safety":"消防",
+  "wind":"温暖化対策",
+  "tree":"環境創造",
+  "garbage":"資源循環",
+  "housing":"建築",
+  "street-lights":"都市整備",
+  "farms":"道路",
+  "culture":"文化観光",
+  "dollar":"経済",
+  "harbor":"港湾",
+  "publicaffairs":"総務",
+  "government":"政策",
+  "traffic-watersup":"交通・水道",
+
+  "schools":"子育て・教育",
+  "economy-tourism":"経済・観光",
+  "our-streets":"街づくり",
+  "environment":"環境",
+  "traffic-watersup":"交通・水道"
+
+
+
 
 };
 
