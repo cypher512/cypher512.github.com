@@ -26,10 +26,14 @@ OpenSpending.LABEL_MAPPING = {
   "traffic-watersup":"交通・水道",
 
   "gikai":"市議会",
-  "gikai-gikai":"市議会"
-
-
-
+  "gikai-gikai":"市議会",
+  "soumu":"市政",
+  "soumu-kanri":"総務管理",
+  "soumu-kikaku":"企画",
+  "soumu-zeimu":"税務",
+  "soumu-senkyo":"選挙",
+  "soumu-jinkeniinkai":"人権委員会",
+  "soumu-kansaiin":"監査委員"
 
 };
 
