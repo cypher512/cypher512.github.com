@@ -19,7 +19,7 @@ OpenSpending.LABEL_MAPPING = {
   "kenkoufukushi-shougai":"傷害保険福祉",
   "kenkoufukushi-kourei":"高齢保健福祉",
   "kenkoufukushi-jidou":"児童保健福祉",
-  "kenkoufukushi-seikatu":"生活保護",
+  "kenkoufukushi-seikatsu":"生活保護",
   "kenkoufukushi-saigai":"災害救助",
   "kenkoufukushi-hokeneisei":"保健衛生",
   "kankyou":"環境",
