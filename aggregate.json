@@ -1008,14 +1008,14 @@
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/13", 
         "_id": 53, 
         "name": "13", 
-        "label": "shoshishutsu"
+        "label": "yobi"
       }, 
       "cofog2": {
         "taxonomy": "cofog2", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/13-1", 
         "_id": 54, 
         "name": "13.1", 
-        "label": "shoshishutsu-kouei"
+        "label": "yobi-yobi"
       }, 
       "cofog3": {
         "taxonomy": "cofog3", 
