@@ -8,7 +8,7 @@ BubbleTree.Styles = BubbleTree.Styles || {};
 
 BubbleTree.Styles.Cofog1 = {
         '01': { icon: 'icons/government-uk.svg',  color: '#00CC00' },
-	'02': { icon: 'icons/government.svg', color: '#00CC00' },
+	'02': { icon: 'icons/forest.svg', color: '#00CC00' },
 	'03': { icon: 'icons/civilian-action.svg', color: '#00CC00' },
 	'04': { icon: 'icons/health.svg', color: '#00CC00' },
 	'05': { icon: 'icons/environment.svg', color: '#00CC00' },
@@ -26,12 +26,12 @@ BubbleTree.Styles.Cofog2 = {
     /* sendai cofog */
 	'01.1': { icon: 'icons/government-uk.svg',  color: '#00CC00' },
 
-	'02.1': { icon: 'icons/government.svg', color: '#00CC00' },
-	'02.2': { icon: 'icons/government.svg', color: '#00CC00' },
-	'02.3': { icon: 'icons/government.svg', color: '#00CC00' },
-	'02.4': { icon: 'icons/government.svg', color: '#00CC00' },
-	'02.5': { icon: 'icons/government.svg', color: '#00CC00' },
-	'02.6': { icon: 'icons/government.svg', color: '#00CC00' },
+	'02.1': { icon: 'icons/forest.svg', color: '#00CC00' },
+	'02.2': { icon: 'icons/forest.svg', color: '#00CC00' },
+	'02.3': { icon: 'icons/forest.svg', color: '#00CC00' },
+	'02.4': { icon: 'icons/forest.svg', color: '#00CC00' },
+	'02.5': { icon: 'icons/forest.svg', color: '#00CC00' },
+	'02.6': { icon: 'icons/forest.svg', color: '#00CC00' },
 
 	'03.1': { icon: 'icons/civilian-action.svg', color: '#00CC00' },
 	'03.2': { icon: 'icons/civilian-action.svg', color: '#00CC00' },
