@@ -1270,9 +1270,11 @@ BubbleTree.Utils.formatNumber = function(n) {
 		prefix = '-';
 	}
 	if (n >= 1000000000000) return prefix+Math.round(n / 100000000000)/10 + 't';
-	if (n >= 1000000000) return prefix+Math.round(n / 100000000)/10 + 'b';
-	if (n >= 1000000) return prefix+Math.round(n / 100000)/10 + 'm';
-	if (n >= 1000) return prefix+Math.round(n / 100)/10 + 'k';
+	/*if (n >= 1000000000) return prefix+Math.round(n / 100000000)/10 + 'b';*/
+	/*if (n >= 1000000) return prefix+Math.round(n / 100000)/10 + 'm';*/
+	/*if (n >= 1000) return prefix+Math.round(n / 100)/10 + 'k';*/
+	if (n >= 100000000) return prefix+Math.round(n / 10000000)/10 + '億';
+	if (n >=     10000) return prefix+Math.round(n / 1000)/10 + '万';
 	else return prefix+n;
 	
 };
