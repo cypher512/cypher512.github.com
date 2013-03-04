@@ -1271,8 +1271,10 @@ BubbleTree.Utils.formatNumber = function(n) {
 	}
 	if (n >= 1000000000000) return prefix+Math.round(n / 100000000000)/10 + 't';
 	if (n >= 1000000000) return prefix+Math.round(n / 100000000)/10 + 'b';
-	if (n >= 1000000) return prefix+Math.round(n / 100000)/10 + 'm';
-	if (n >= 1000) return prefix+Math.round(n / 100)/10 + 'k';
+	//if (n >= 1000000) return prefix+Math.round(n / 100000)/10 + 'm';
+        if (n >= 100000000) return prefix+Math.round(n / 10000000)/10 + 'oku';
+	//if (n >= 1000) return prefix+Math.round(n / 100)/10 + 'k';
+        if (n >= 10000) return prefix+Math.round(n / 1000)/10 + 'man';
 	else return prefix+n;
 	
 };
