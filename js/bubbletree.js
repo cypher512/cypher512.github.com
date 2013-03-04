@@ -1276,8 +1276,8 @@ BubbleTree.Utils.formatNumber = function(n) {
 	if (n >= 1000) return prefix+Math.round(n / 100)/10 + 'k';
         */
 	if (n >= 1000000000000) return prefix+Math.round(n / 1000000000000) + '兆';*/
-	if (n >=     100000000) return prefix+Math.round(n / 100000000) + '億';
-	if (n >=         10000) return prefix+Math.round(n / 10000) + '万';
+	if (n >= 100000000) return prefix+Math.round(n / 100000000) + '億';
+	if (n >= 10000) return prefix+Math.round(n / 10000) + '万';
 	else return prefix+n;
 	
 };
