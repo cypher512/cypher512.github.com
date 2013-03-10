@@ -15,12 +15,6 @@
         "name": "01.1", 
         "label": "gikai-gikai"
       },
-      "cofog3": {
-        "taxonomy": "cofog3", 
-        "_id": 1, 
-        "name": "", 
-        "label": ""
-      }
     }, 
     {
       "num_entries": 1, 
@@ -37,12 +31,6 @@
         "name": "02.1", 
         "label": "soumu-kanri"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-         "_id": 3, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -59,12 +47,6 @@
         "name": "02.2", 
         "label": "soumu-chozei"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-         "_id": 3, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -81,12 +63,6 @@
         "name": "02.3", 
         "label": "soumu-koseki"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-         "_id": 3, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -125,12 +101,7 @@
         "name": "02.5", 
         "label": "soumu-tokei"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-         "_id": 3, 
-        "name": "", 
-        "label": ""
-      }
+ 
     },
     {
       "num_entries": 1, 
@@ -147,12 +118,6 @@
         "name": "02.6", 
         "label": "soumu-kansa"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-         "_id": 3, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -169,12 +134,6 @@
         "name": "03.1", 
         "label": "minsei-shakai"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-         "_id": 10, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -191,12 +150,6 @@
         "name": "03.2", 
         "label": "minsei-jidou"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-         "_id": 10, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -213,12 +166,6 @@
         "name": "03.3", 
         "label": "minsei-saigai"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-         "_id": 10, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -235,12 +182,6 @@
         "name": "04.1", 
         "label": "eisei-hoken"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-         "_id": 14, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -257,12 +198,6 @@
         "name": "04.2", 
         "label": "eisei-seisou"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-         "_id": 14, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -279,12 +214,6 @@
         "name": "04.3", 
         "label": "eisei-byouin"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-         "_id": 14, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -301,12 +230,6 @@
         "name": "04.4", 
         "label": "eisei-jousui"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-        "_id": 14, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -323,12 +246,6 @@
         "name": "05.1", 
         "label": "norin-nogyo"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-         "_id": 22, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -345,12 +262,6 @@
         "name": "05.2", 
         "label": "norin-ringyo"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-        "_id": 22, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -367,12 +278,6 @@
         "name": "05.3", 
         "label": "norin-suisan"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-        "_id": 22, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -389,12 +294,6 @@
         "name": "06.1", 
         "label": "shokou-shokou"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-        "_id": 24, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -411,12 +310,6 @@
         "name": "07.1", 
         "label": "doboku-kanri"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-        "_id": 27, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -433,12 +326,6 @@
         "name": "07.2", 
         "label": "doboku-doro"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-        "_id": 27, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -455,12 +342,6 @@
         "name": "07.3", 
         "label": "doboku-kasen"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-        "_id": 27, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -477,12 +358,6 @@
         "name": "07.4", 
         "label": "doboku-toshi"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-        "_id": 27, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -499,12 +374,6 @@
         "name": "07.5", 
         "label": "doboku-gesui"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-        "_id": 27, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -521,12 +390,6 @@
         "name": "07.6", 
         "label": "doboku-jutaku"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-        "_id": 27, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -543,12 +406,6 @@
         "name": "08.1", 
         "label": "shoubou-shoubou"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-        "_id": 35, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -565,12 +422,6 @@
         "name": "09.1", 
         "label": "kyoiku-soumu"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-        "_id": 37, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -587,12 +438,6 @@
         "name": "09.2", 
         "label": "kyoiku-shou"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-        "_id": 37, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -609,12 +454,6 @@
         "name": "09.3", 
         "label": "kyoiku-chuu"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-        "_id": 37, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -631,12 +470,6 @@
         "name": "09.4", 
         "label": "kyoiku-shakai"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-        "_id": 37, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -653,12 +486,6 @@
         "name": "09.5", 
         "label": "kyoiku-hoken"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-        "_id": 37, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -675,12 +502,6 @@
         "name": "10.1", 
         "label": "saigai-norin"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-        "_id": 49, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -697,12 +518,6 @@
         "name": "10.2", 
         "label": "saigai-kokyo"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-        "_id": 49, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -719,12 +534,6 @@
         "name": "10.3", 
         "label": "saigai-bunkyo"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-        "_id": 49, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -741,12 +550,6 @@
         "name": "10.4", 
         "label": "saigai-sonota"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-        "_id": 49, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -763,12 +566,6 @@
         "name": "11.1", 
         "label": "kousai-kousai"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-        "_id": 51, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -785,12 +582,6 @@
         "name": "12.1", 
         "label": "fukkou-somu"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-        "_id": 51, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -807,12 +598,6 @@
         "name": "12.2", 
         "label": "fukkou-doboku"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-        "_id": 51, 
-        "name": "", 
-        "label": ""
-      }
     },
     {
       "num_entries": 1, 
@@ -829,14 +614,7 @@
         "name": "12.3", 
         "label": "fukkou-kyoiku"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-        "_id": 51, 
-        "name": "", 
-        "label": ""
-      }
     },
-
     {
       "num_entries": 1, 
       "amount": 38386000.0, 
@@ -852,12 +630,6 @@
         "name": "13.1", 
         "label": "yobi-yobi"
       }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-        "_id": 53, 
-        "name": "", 
-        "label": ""
-      }
     }
   ], 
   "summary": {
