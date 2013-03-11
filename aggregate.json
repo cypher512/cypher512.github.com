@@ -452,7 +452,7 @@
     },
     {
       "num_entries": 1, 
-      "amount": 280711000.0, 
+      "amount": 26005000.0, 
       "cofog1": {
         "taxonomy": "cofog1", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/07", 
@@ -981,7 +981,7 @@
     "num_drilldowns": 41, 
     "pagesize": 10000, 
     "cached": true, 
-    "amount": 546136000000.0, 
+    "amount": 35500000000.0, 
     "pages": 1, 
     "currency": {
       "amount": "JPY"
